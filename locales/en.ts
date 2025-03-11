@@ -1,0 +1,7 @@
+export default {
+    header_navigation: {
+        schedule: 'Schedule',
+        library: 'Library',
+        catalog: 'Catalog'
+    },
+}
